@@ -1,0 +1,133 @@
+tile.shadowcraftevolved:NegalOre.name=Negal ore
+tile.shadowcraftevolved:ZixiriumOre.name=Zixirium ore
+tile.shadowcraftevolved:DarkCopperOre.name=DarkCopper ore
+tile.shadowcraftevolved:LithiumOre.name=Lithium ore
+tile.shadowcraftevolved:NickelOre.name=Nickel ore
+
+tile.shadowcraftevolved:EnergyCube.name=EnergyCube
+
+tile.shadowcraftevolved:EnderStone.name=Ender stone
+
+tile.EnergyCube.0.name=EnergyCell
+tile.EnergyCubeAdvanced.0.name=EnergyCell
+tile.EnergyCubeUltimate.0.name=EnergyCell
+tile.EnergyCube.1.name=EnergyCell
+
+tile.shadowcraftevolved:FarmBaseBlock.name=Farm casing
+tile.shadowcraftevolved:TreeFarmCore.name=Farm core[WIP]
+
+tile.shadowcraftevolved:Infuser.name=Infuser
+
+tile.shadowcraftevolved:Infuser.0.name=Infuser
+
+tile.BasicConduit.0.name=Conduit
+
+tile.BasicGenerator.0.name=Generator
+
+tile.ElectricFurnice.0.name=Electric smelter 
+tile.machines.0.name=Electric smelter
+
+//Storage
+tile.shadowcraftevolved:BasicCrate.0.name=Basic Crate
+tile.shadowcraftevolved:BasicCrateMk2.0.name=Modular Crate
+tile.shadowcraftevolved:BasicCrateMk3.0.name=Modular Crate
+tile.shadowcraftevolved:BasicCrateMk4.0.name=Modular Crate
+tile.shadowcraftevolved:BasicCrateMk5.0.name=Modular Crate
+tile.shadowcraftevolved:BasicCrateMk5Deep.0.name=Modular Crate
+tile.shadowcraftevolved:ModularCrate.name=Modular crate
+
+
+//Mines//
+tile.shadowcraftevolved:LandMine.name=Land Mine
+tile.shadowcraftevolved:LandMineMk2.name=Land Mine[Mk2]
+tile.shadowcraftevolved:LandMineMk3.name=Land Mine[Mk3]
+
+
+//Blocks//
+tile.shadowcraftevolved:NegalBlock.name=Negal block
+tile.shadowcraftevolved:ZixiriumBlock.name=Zixirium block
+tile.shadowcraftevolved:HardendIronBlock.name=HardendIron block
+tile.shadowcraftevolved:LithiumBlock.name=Lithium block
+
+//Ingots//
+item.shadowcraftevolved:NegalIngot.name=Negal Ingot
+item.shadowcraftevolved:ZixiriumIngot.name=Zixirium Ingot
+item.shadowcraftevolved:ingotCopper.name=DarkCopper Ingot
+item.shadowcraftevolved:LithiumIngot.name=Lithium Ingot
+item.shadowcraftevolved:NickelIngot.name=Nickel Ingot
+item.shadowcraftevolved:HardendIronIngot.name=HardenedIron Ingot
+
+//Cores//
+item.shadowcraftevolved:MineCore.name=Mine core
+item.shadowcraftevolved:CoreCasing.name=Core casing
+item.shadowcraftevolved:CamouflageCore.name=Camuflage Core
+item.shadowcraftevolved:ShieldComponent.name=Shield Component
+
+item.shadowcraftevolved:NegalDust.name=NegalDust
+
+item.Gear_0.name=Wooden gear
+item.Gear_1.name=Iron gear
+item.Gear_2.name=DarkCopper gear
+item.Gear_3.name=Lithium gear
+
+
+item.shadowcraftevolved:NeInfusedTntStick.name=Infused Stick[Tnt]
+item.shadowcraftevolved:BasicStorageModule.name=Storage Module[Basic]
+item.shadowcraftevolved:AdvancedStorageModule.name=Storage Module[Advanced]
+item.shadowcraftevolved:DeepStorageModule.name=Storage Module[DeepStorage]
+item.shadowcraftevolved:BasicConector.name=Connector[basic]
+item.shadowcraftevolved:MatrixCore.name=MatrixCore
+item.shadowcraftevolved:Casing.name=Casing
+item.shadowcraftevolved:SmallEnergyCell.name=EnergyCell[small]
+
+item.shadowcraftevolved:ZigmaWrench.name=Configuration wrench
+
+item.shadowcraftevolved:Debugger.name=Debugger
+
+item.shadowcraftevolved:BloodShard.name=Blood shard
+
+item.shadowcraftevolved:BasicSepter.name=Septer
+
+item.shadowcraftevolved:EnergyMeter.name=EnergyMeter
+
+item.NegalChestplate.name=Negal chestplate
+item.NegalHelmet.name=Negal helmet
+item.NegalBoots.name=Negal boots
+item.NegalLeggings.name=Negal leggings
+
+//Swords//
+item.shadowcraftevolved:DireSword.name=Oblivion sword
+
+//Creative tabs//
+itemGroup.shadowcraftevolved=ShadowCraftEvolved
+itemGroup.Machines=ShadowCraftEvolved:Machines
+
+//Keys//
+key.categorys.shadowcraftevolved= ShadowCraft Evolved
+
+key.shadowcraftevolved.explode= Explode key
+
+key.shadowcraftevolved.explodeBig= Big explosion key
+
+shadowInfo.hold=Hold
+shadowInfo.shift=Shift
+shadowInfo.forDetails=for more inforation!
+shadowInfo.DeepStorage= This module adds slots to a mk4 crate.
+shadowInfo.Septer= WIP.
+shadowInfo.EnergyMeter=Shows you how much flux is stored in the block.
+
+
+gui.shadowcraftevolved.LandMine.timer=Timer: %ss
+
+gui.shadowcraftevolved.guiButton.button.reset=Reset 
+gui.shadowcraftevolved.guiButton.button.restart=Restart
+
+gui.shadowcraftevolved.LandMine.target=Target
+
+sce.waila.LandMine.target=Target:
+
+sce.waila.LandMine.primed=Primed
+
+sce.waila.LandMine.notPrimed=Not primed
+
+sce.waila.LandMine.primingIn=Priming in:
